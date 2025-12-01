@@ -1,6 +1,6 @@
 import Profile  from "./components/Profile/Profile";
 import FriendList from "./components/FriendList/Friendlist";
-import TransactHistory from "./components/TransactionHistory/Trasactionhistory";
+import TransactHistory from "./components/TransactionHistory/TrasactionHistory";
 import userData from './userData.json';
 import friends from './friends.json'
 import transactions from './transactions.json'
