@@ -1,6 +1,5 @@
 import css from './TransactionHistory.module.css';
 
-
 const TransactHistory = ({ items }) => (
     <table className={css.transactHistory}>
         <thead>
@@ -19,6 +18,5 @@ const TransactHistory = ({ items }) => (
        </tbody>         
   </table>
 );
-
 
 export default TransactHistory;
